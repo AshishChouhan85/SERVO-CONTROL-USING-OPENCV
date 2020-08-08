@@ -15,5 +15,7 @@ The larger circle around the ROI has been divided into four parts of equal area 
 Contours of the hand can be detected only when camera is stationary and background is still. Also too much objects in the background makes the hand difficult to detect.
 All these errors can be rectified using a deep learning model which can detect hands with maximum accuracy.
 
+# VIDEO
+[CLICK HERE](https://drive.google.com/file/d/12bfXmal6n2OYjdiwFV9Zqgh01aCjUmKK/view?usp=sharing)
 
 
