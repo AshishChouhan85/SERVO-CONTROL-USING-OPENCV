@@ -18,6 +18,6 @@ Contours of the hand can be detected only when camera is stationary and backgrou
 All these errors can be rectified using a deep learning model which can detect hand with maximum accuracy.
 
 # VIDEO
-[CLICK HERE](https://drive.google.com/file/d/17wxnTURtqnJqas1tKpgifAKJcFCUi-dO/view?usp=sharing)
+![CLICK HERE](https://drive.google.com/file/d/17wxnTURtqnJqas1tKpgifAKJcFCUi-dO/view?usp=sharing)
 
 
