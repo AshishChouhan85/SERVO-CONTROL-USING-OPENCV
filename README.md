@@ -10,7 +10,17 @@ The project uses methods like background removal, blurring and thresholding the 
 After detecting the largest contour(which is the contour of our hand),the topmost point of the contour (which is generally the fingertip) is detected.<br>
 The larger circle around the ROI has been divided into four parts of equal area using basic trigonometry for up,down,left and right direction.Currently virtual controller 
 can control any bot (with minute change in code) along x and y axis, but it can be extended to z axis by also considering the area of contour detected.<br>
-![background](https://github.com/AshishChouhan85/GESTURE-CONTROLLED-BOT-VIRTUAL-CONTROLLER/blob/master/Images/background.png)
+# Background
+![background](https://github.com/AshishChouhan85/GESTURE-CONTROLLED-BOT-VIRTUAL-CONTROLLER/blob/master/Images/background.png)<br>
+<br>
+# Hand
+![hand](https://github.com/AshishChouhan85/GESTURE-CONTROLLED-BOT-VIRTUAL-CONTROLLER/blob/master/Images/hand.png)<br>
+<br>
+# Thresholded hand
+![threshold](https://github.com/AshishChouhan85/GESTURE-CONTROLLED-BOT-VIRTUAL-CONTROLLER/blob/master/Images/threshold.png)<br>
+<br>
+# Dilated hand
+![dilate](https://github.com/AshishChouhan85/GESTURE-CONTROLLED-BOT-VIRTUAL-CONTROLLER/blob/master/Images/dilate.png)<br>
 
 
 
