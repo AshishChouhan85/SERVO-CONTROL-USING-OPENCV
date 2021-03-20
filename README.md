@@ -13,11 +13,12 @@ can control any bot (with minute change in code) along x and y axis, but it can 
 
 
 
+
 # PROBLEMS AND FURTHER SCOPE OF IMPROVEMENTS
 Contours of the hand can be detected only when camera is stationary and background is still. Also too much objects in the background makes the hand difficult to detect.
 All these errors can be rectified using a deep learning model which can detect hand with maximum accuracy.
 
 # VIDEO
-![CLICK HERE](https://drive.google.com/file/d/17wxnTURtqnJqas1tKpgifAKJcFCUi-dO/view?usp=sharing)
+[CLICK HERE](https://drive.google.com/file/d/17wxnTURtqnJqas1tKpgifAKJcFCUi-dO/view?usp=sharing)
 
 
