@@ -11,15 +11,18 @@ After detecting the largest contour(which is the contour of our hand),the topmos
 The larger circle around the ROI has been divided into four parts of equal area using basic trigonometry for up,down,left and right direction.Currently virtual controller 
 can control any bot (with minute change in code) along x and y axis, but it can be extended to z axis by also considering the area of contour detected.<br>
 # Background
+A background is created at the start by averaging the first 60 frames.
 ![background](https://github.com/AshishChouhan85/GESTURE-CONTROLLED-BOT-VIRTUAL-CONTROLLER/blob/master/Images/background.png)<br>
 <br>
 # Hand
 ![hand](https://github.com/AshishChouhan85/GESTURE-CONTROLLED-BOT-VIRTUAL-CONTROLLER/blob/master/Images/hand.png)<br>
 <br>
 # Thresholded hand
+The background is subtracted from the current image and thresholded to get this image.
 ![threshold](https://github.com/AshishChouhan85/GESTURE-CONTROLLED-BOT-VIRTUAL-CONTROLLER/blob/master/Images/threshold.png)<br>
 <br>
 # Dilated hand
+Finally the above image is dilated so that a perfect contour of the hand is detected.
 ![dilate](https://github.com/AshishChouhan85/GESTURE-CONTROLLED-BOT-VIRTUAL-CONTROLLER/blob/master/Images/dilate.png)<br>
 
 
