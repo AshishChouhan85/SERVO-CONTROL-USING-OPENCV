@@ -1,4 +1,4 @@
-# GESTURE-CONTROLLED-BOT-VIRTUAL-CONTROLLER
+# SERVO CONTROL USING OPENCV
 
 # INTRODUCTION
 This is the code for making a virtual controller which can be controlled by moving our fingertip in upward,downward,left and right direction.
